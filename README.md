@@ -7,15 +7,25 @@ Este repositório contém meus estudos, projetos e anotações desenvolvidos ao 
 O curso aborda uma ampla variedade de tecnologias e conceitos importantes no desenvolvimento moderno, incluindo:
 
 🐍 Programação com Python
+
 ⚙️ Automação de tarefas
+
 📊 Análise de dados com Pandas
+
 📄 Manipulação de PDFs
+
 🗄️ Bancos de dados (SQLite e MongoDB)
+
 🌐 Desenvolvimento de APIs com FastAPI
+
 📈 Dashboards com Dash
+
 🔥 Desenvolvimento web com Flask
+
 🤖 Introdução ao Machine Learning
+
 🎮 Desenvolvimento de jogos
+
 🎯 Objetivo do Repositório
 
 Este repositório tem como finalidade:
@@ -29,26 +39,43 @@ Demonstrar minhas habilidades técnicas
 A organização dos arquivos segue a divisão por temas do curso:
 
 /automacao
+
 /pandas
+
 /pdf
+
 /sqlite
+
 /mongodb
+
 /fastapi
+
 /dash
+
 /flask
+
 /machine-learning
+
 /jogos
 
 (A estrutura pode evoluir conforme o progresso no curso.)
 
 🛠️ Tecnologias Utilizadas
+
 Python
+
 Pandas
+
 SQLite
+
 MongoDB
+
 FastAPI
+
 Flask
+
 Dash
+
 📌 Observações
 Este repositório está em constante atualização 🚧
 Alguns projetos são simples e focados em aprendizado
