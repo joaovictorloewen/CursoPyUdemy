@@ -48,3 +48,9 @@ if numero10 > numero11 or numero10 > numero12:
     print(f"O {numero10} é maior que {numero11} ou o {numero10} é maior que {numero12}")
 
 print("")
+
+#Estrutura condicional ternaria
+
+age = 18
+status = "adulto" if age >= 18 else "menor de idade"
+print(status)
