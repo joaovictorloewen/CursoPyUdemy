@@ -34,6 +34,7 @@ Registrar minha evolução no curso
 Armazenar códigos e projetos desenvolvidos
 Servir como base de consulta futura
 Demonstrar minhas habilidades técnicas
+
 📂 Estrutura do Projeto
 
 A organização dos arquivos segue a divisão por temas do curso:
@@ -77,10 +78,15 @@ Flask
 Dash
 
 📌 Observações
+
 Este repositório está em constante atualização 🚧
+
 Alguns projetos são simples e focados em aprendizado
+
 Outros serão mais completos conforme avanço no curso
+
 📈 Progresso
+
 ⏳ Em andamento
 
 ⭐ Se este repositório te ajudar de alguma forma, considere deixar uma estrela!
